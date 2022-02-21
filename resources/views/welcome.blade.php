@@ -180,7 +180,7 @@ http://www.tooplate.com/view/2098-health
                                         <h3>Nate Baston</h3>
                                         <p>General Principal</p>
                                         <div class="team-contact-info">
-                                             <p><i class="fa fa-phone"></i> 010-020-0120</p>
+                                             <p><i class="fa fa-phone"></i> 999-999-9999</p>
                                              <p><i class="fa fa-envelope-o"></i> <a href="#">general@sewahealthlink.com</a></p>
                                         </div>
                                         <ul class="social-icon">
