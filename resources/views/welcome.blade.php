@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-     <title>Health - Medical Website Template</title>
+     <title>Sewa Healthlink</title>
 <!--
 
 Template 2098 Health
@@ -45,13 +45,13 @@ http://www.tooplate.com/view/2098-health
                <div class="row">
 
                     <div class="col-md-4 col-sm-5">
-                         <p>Welcome to a Professional Health Care</p>
+                         <p>Welcome to Sewa Healthlink</p>
                     </div>
                          
                     <div class="col-md-8 col-sm-7 text-align-right">
-                         <span class="phone-icon"><i class="fa fa-phone"></i> 010-060-0160</span>
+                         <span class="phone-icon"><i class="fa fa-phone"></i> 999-999-999</span>
                          <span class="date-icon"><i class="fa fa-calendar-plus-o"></i> 6:00 AM - 10:00 PM (Mon-Fri)</span>
-                         <span class="email-icon"><i class="fa fa-envelope-o"></i> <a href="#">info@company.com</a></span>
+                         <span class="email-icon"><i class="fa fa-envelope-o"></i> <a href="#">contact@sewahealthlink.com</a></span>
                     </div>
 
                </div>
@@ -71,7 +71,7 @@ http://www.tooplate.com/view/2098-health
                     </button>
 
                     <!-- lOGO TEXT HERE -->
-                    <a href="index.html" class="navbar-brand"><i class="fa fa-h-square"></i>ealth Center</a>
+                    <a href="index.html" class="navbar-brand">Sewa Healthlink</a>
                </div>
 
                <!-- MENU LINKS -->
@@ -80,7 +80,7 @@ http://www.tooplate.com/view/2098-health
                          <li><a href="#top" class="smoothScroll">Home</a></li>
                          <li><a href="#about" class="smoothScroll">About Us</a></li>
                          <li><a href="#team" class="smoothScroll">Doctors</a></li>
-                         <li><a href="#news" class="smoothScroll">News</a></li>
+                         <li><a href="#news" class="smoothScroll">Services</a></li>
                          <li><a href="#google-map" class="smoothScroll">Contact</a></li>
                          <li class="appointment-btn"><a href="#appointment">Make an appointment</a></li>
                     </ul>
@@ -121,7 +121,7 @@ http://www.tooplate.com/view/2098-health
                                         <div class="col-md-offset-1 col-md-10">
                                              <h3>Pellentesque nec libero nisi</h3>
                                              <h1>Your Health Benefits</h1>
-                                             <a href="#news" class="section-btn btn btn-default btn-blue smoothScroll">Read Stories</a>
+                                             <a href="#news" class="section-btn btn btn-default btn-blue smoothScroll">Explore Our Services</a>
                                         </div>
                                    </div>
                               </div>
@@ -139,7 +139,7 @@ http://www.tooplate.com/view/2098-health
 
                     <div class="col-md-6 col-sm-6">
                          <div class="about-info">
-                              <h2 class="wow fadeInUp" data-wow-delay="0.6s">Welcome to Your <i class="fa fa-h-square"></i>ealth Center</h2>
+                              <h2 class="wow fadeInUp" data-wow-delay="0.6s">Welcome to Sewa Healthlink</h2>
                               <div class="wow fadeInUp" data-wow-delay="0.8s">
                                    <p>Aenean luctus lobortis tellus, vel ornare enim molestie condimentum. Curabitur lacinia nisi vitae velit volutpat venenatis.</p>
                                    <p>Sed a dignissim lacus. Quisque fermentum est non orci commodo, a luctus urna mattis. Ut placerat, diam a tempus vehicula.</p>
@@ -181,7 +181,7 @@ http://www.tooplate.com/view/2098-health
                                         <p>General Principal</p>
                                         <div class="team-contact-info">
                                              <p><i class="fa fa-phone"></i> 010-020-0120</p>
-                                             <p><i class="fa fa-envelope-o"></i> <a href="#">general@company.com</a></p>
+                                             <p><i class="fa fa-envelope-o"></i> <a href="#">general@sewahealthlink.com</a></p>
                                         </div>
                                         <ul class="social-icon">
                                              <li><a href="#" class="fa fa-linkedin-square"></a></li>
@@ -201,7 +201,7 @@ http://www.tooplate.com/view/2098-health
                                         <p>Pregnancy</p>
                                         <div class="team-contact-info">
                                              <p><i class="fa fa-phone"></i> 010-070-0170</p>
-                                             <p><i class="fa fa-envelope-o"></i> <a href="#">pregnancy@company.com</a></p>
+                                             <p><i class="fa fa-envelope-o"></i> <a href="#">pregnancy@sewahealthlink.com</a></p>
                                         </div>
                                         <ul class="social-icon">
                                              <li><a href="#" class="fa fa-facebook-square"></a></li>
@@ -222,7 +222,7 @@ http://www.tooplate.com/view/2098-health
                                         <p>Cardiology</p>
                                         <div class="team-contact-info">
                                              <p><i class="fa fa-phone"></i> 010-040-0140</p>
-                                             <p><i class="fa fa-envelope-o"></i> <a href="#">cardio@company.com</a></p>
+                                             <p><i class="fa fa-envelope-o"></i> <a href="#">cardio@sewahealthlink.com</a></p>
                                         </div>
                                         <ul class="social-icon">
                                              <li><a href="#" class="fa fa-twitter"></a></li>
@@ -246,7 +246,7 @@ http://www.tooplate.com/view/2098-health
                     <div class="col-md-12 col-sm-12">
                          <!-- SECTION TITLE -->
                          <div class="section-title wow fadeInUp" data-wow-delay="0.1s">
-                              <h2>Latest News</h2>
+                              <h2>Our Services</h2>
                          </div>
                     </div>
 
@@ -367,7 +367,7 @@ http://www.tooplate.com/view/2098-health
                                         <input type="tel" class="form-control" id="phone" name="phone" placeholder="Phone">
                                         <label for="Message">Additional Message</label>
                                         <textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
-                                        <button type="submit" class="form-control" id="cf-submit" name="submit">Submit Button</button>
+                                        <button type="button" class="form-control" id="cf-submit" name="submit">Make Appointment</button>
                                    </div>
                               </div>
                         </form>
@@ -386,7 +386,8 @@ http://www.tooplate.com/view/2098-health
             3. Click "Share" and choose "Embed map" tab
             4. Copy only URL and paste it within the src="" field below
 	-->
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.3030413476204!2d100.5641230193719!3d13.757206847615207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf51ce6427b7918fc!2sG+Tower!5e0!3m2!1sen!2sth!4v1510722015945" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+     
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1810.8334284613863!2d93.93798712264517!3d24.806858623975675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374927abba7f4ddd%3A0xb07673c3fdf9fc40!2sKangla%2C%20Imphal%2C%20Manipur%20795001!5e0!3m2!1sen!2sin!4v1645447528481!5m2!1sen!2sin" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
      </section>           
 
 
@@ -402,14 +403,14 @@ http://www.tooplate.com/view/2098-health
 
                               <div class="contact-info">
                                    <p><i class="fa fa-phone"></i> 010-070-0170</p>
-                                   <p><i class="fa fa-envelope-o"></i> <a href="#">info@company.com</a></p>
+                                   <p><i class="fa fa-envelope-o"></i> <a href="#">info@sewahealthlink.com</a></p>
                               </div>
                          </div>
                     </div>
 
                     <div class="col-md-4 col-sm-4"> 
                          <div class="footer-thumb"> 
-                              <h4 class="wow fadeInUp" data-wow-delay="0.4s">Latest News</h4>
+                              <h4 class="wow fadeInUp" data-wow-delay="0.4s">Our Services</h4>
                               <div class="latest-stories">
                                    <div class="stories-image">
                                         <a href="#"><img src="images/news-image.jpg" class="img-responsive" alt=""></a>
@@ -452,9 +453,9 @@ http://www.tooplate.com/view/2098-health
                     <div class="col-md-12 col-sm-12 border-top">
                          <div class="col-md-4 col-sm-6">
                               <div class="copyright-text"> 
-                                   <p>Copyright &copy; 2018 Your Company 
+                                   <p>Copyright &copy; 2022 Sewa Healthlink 
                                    
-                                   | Design: Tooplate</p>
+                                   </p>
                               </div>
                          </div>
                          <div class="col-md-6 col-sm-6">
