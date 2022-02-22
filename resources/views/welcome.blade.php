@@ -81,8 +81,8 @@ http://www.tooplate.com/view/2098-health
                          <li><a href="#about" class="smoothScroll">About Us</a></li>
                          <li><a href="#team" class="smoothScroll">Doctors</a></li>
                          <li><a href="#news" class="smoothScroll">Services</a></li>
-                         <li><a href="#google-map" class="smoothScroll">Contact</a></li>
-                         <li class="appointment-btn"><a href="#appointment">Make an appointment</a></li>
+                         <li><a href="#google-map" class="smoothScroll">Location</a></li>
+                         <li class="appointment-btn"><a href="#appointment">Contact Us</a></li>
                     </ul>
                </div>
 
@@ -333,10 +333,15 @@ http://www.tooplate.com/view/2098-health
 
                               <!-- SECTION TITLE -->
                               <div class="section-title wow fadeInUp" data-wow-delay="0.4s">
-                                   <h2>Make an appointment</h2>
+                                   <h2>Contact</h2>
+                                   <p>
+                                   Drop us your query using below form and we will get back to you soon.
+                                   </p>
+                                   
                               </div>
-
+                              
                               <div class="wow fadeInUp" data-wow-delay="0.8s">
+                              
                                    <div class="col-md-6 col-sm-6">
                                         <label for="name">Name</label>
                                         <input type="text" class="form-control" id="name" name="name" placeholder="Full Name">
@@ -346,7 +351,7 @@ http://www.tooplate.com/view/2098-health
                                         <label for="email">Email</label>
                                         <input type="email" class="form-control" id="email" name="email" placeholder="Your Email">
                                    </div>
-
+                                   <!--
                                    <div class="col-md-6 col-sm-6">
                                         <label for="date">Select Date</label>
                                         <input type="date" name="date" value="" class="form-control">
@@ -361,13 +366,13 @@ http://www.tooplate.com/view/2098-health
                                              <option>Medical Research</option>
                                         </select>
                                    </div>
-
+                                   //-->
                                    <div class="col-md-12 col-sm-12">
                                         <label for="telephone">Phone Number</label>
                                         <input type="tel" class="form-control" id="phone" name="phone" placeholder="Phone">
                                         <label for="Message">Additional Message</label>
                                         <textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
-                                        <button type="button" class="form-control" id="cf-submit" name="submit">Make Appointment</button>
+                                        <button type="button" class="form-control" id="cf-submit" name="submit">Submit</button>
                                    </div>
                               </div>
                         </form>
