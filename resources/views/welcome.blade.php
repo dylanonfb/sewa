@@ -14,7 +14,6 @@ http://www.tooplate.com/view/2098-health
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
      <meta name="description" content="">
      <meta name="keywords" content="">
-     <meta name="author" content="Tooplate">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
      <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -65,22 +64,22 @@ http://www.tooplate.com/view/2098-health
 
                <div class="navbar-header">
                     <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                         <span class="icon icon-bar"></span>
-                         <span class="icon icon-bar"></span>
-                         <span class="icon icon-bar"></span>
+                         <span class="icon icon-bar">a</span>
+                         <span class="icon icon-bar">b</span>
+                         <span class="icon icon-bar">c</span>
                     </button>
 
                     <!-- lOGO TEXT HERE -->
-                    <a href="index.html" class="navbar-brand">Sewa Healthlink</a>
+                    <a href="/" ><img src="images/logo.png" class="navbar-brand" style="height:65px;padding:0px;"/></a>
                </div>
 
                <!-- MENU LINKS -->
                <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                          <li><a href="#top" class="smoothScroll">Home</a></li>
-                         <li><a href="#about" class="smoothScroll">About Us</a></li>
-                         <li><a href="#team" class="smoothScroll">Doctors</a></li>
                          <li><a href="#news" class="smoothScroll">Services</a></li>
+                         <li><a href="#team" class="smoothScroll">Doctors</a></li>
+                         <li><a href="#about" class="smoothScroll">About Us</a></li>
                          <li><a href="#google-map" class="smoothScroll">Location</a></li>
                          <li class="appointment-btn"><a href="#appointment">Contact Us</a></li>
                     </ul>
@@ -131,111 +130,6 @@ http://www.tooplate.com/view/2098-health
           </div>
      </section>
 
-
-     <!-- ABOUT -->
-     <section id="about">
-          <div class="container">
-               <div class="row">
-
-                    <div class="col-md-6 col-sm-6">
-                         <div class="about-info">
-                              <h2 class="wow fadeInUp" data-wow-delay="0.6s">Welcome to Sewa Healthlink</h2>
-                              <div class="wow fadeInUp" data-wow-delay="0.8s">
-                                   <p>Aenean luctus lobortis tellus, vel ornare enim molestie condimentum. Curabitur lacinia nisi vitae velit volutpat venenatis.</p>
-                                   <p>Sed a dignissim lacus. Quisque fermentum est non orci commodo, a luctus urna mattis. Ut placerat, diam a tempus vehicula.</p>
-                              </div>
-                              <figure class="profile wow fadeInUp" data-wow-delay="1s">
-                                   <img src="images/author-image.jpg" class="img-responsive" alt="">
-                                   <figcaption>
-                                        <h3>Dr. Neil Jackson</h3>
-                                        <p>General Principal</p>
-                                   </figcaption>
-                              </figure>
-                         </div>
-                    </div>
-                    
-               </div>
-          </div>
-     </section>
-
-
-     <!-- TEAM -->
-     <section id="team" data-stellar-background-ratio="1">
-          <div class="container">
-               <div class="row">
-
-                    <div class="col-md-6 col-sm-6">
-                         <div class="about-info">
-                              <h2 class="wow fadeInUp" data-wow-delay="0.1s">Our Doctors</h2>
-                         </div>
-                    </div>
-
-                    <div class="clearfix"></div>
-
-                    <div class="col-md-4 col-sm-6">
-                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.2s">
-                              <img src="images/team-image1.jpg" class="img-responsive" alt="">
-
-                                   <div class="team-info">
-                                        <h3>Nate Baston</h3>
-                                        <p>General Principal</p>
-                                        <div class="team-contact-info">
-                                             <p><i class="fa fa-phone"></i> 999-999-9999</p>
-                                             <p><i class="fa fa-envelope-o"></i> <a href="#">general@sewahealthlink.com</a></p>
-                                        </div>
-                                        <ul class="social-icon">
-                                             <li><a href="#" class="fa fa-linkedin-square"></a></li>
-                                             <li><a href="#" class="fa fa-envelope-o"></a></li>
-                                        </ul>
-                                   </div>
-
-                         </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-6">
-                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.4s">
-                              <img src="images/team-image2.jpg" class="img-responsive" alt="">
-
-                                   <div class="team-info">
-                                        <h3>Jason Stewart</h3>
-                                        <p>Pregnancy</p>
-                                        <div class="team-contact-info">
-                                             <p><i class="fa fa-phone"></i> 010-070-0170</p>
-                                             <p><i class="fa fa-envelope-o"></i> <a href="#">pregnancy@sewahealthlink.com</a></p>
-                                        </div>
-                                        <ul class="social-icon">
-                                             <li><a href="#" class="fa fa-facebook-square"></a></li>
-                                             <li><a href="#" class="fa fa-envelope-o"></a></li>
-                                             <li><a href="#" class="fa fa-flickr"></a></li>
-                                        </ul>
-                                   </div>
-
-                         </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-6">
-                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.6s">
-                              <img src="images/team-image3.jpg" class="img-responsive" alt="">
-
-                                   <div class="team-info">
-                                        <h3>Miasha Nakahara</h3>
-                                        <p>Cardiology</p>
-                                        <div class="team-contact-info">
-                                             <p><i class="fa fa-phone"></i> 010-040-0140</p>
-                                             <p><i class="fa fa-envelope-o"></i> <a href="#">cardio@sewahealthlink.com</a></p>
-                                        </div>
-                                        <ul class="social-icon">
-                                             <li><a href="#" class="fa fa-twitter"></a></li>
-                                             <li><a href="#" class="fa fa-envelope-o"></a></li>
-                                        </ul>
-                                   </div>
-
-                         </div>
-                    </div>
-                    
-               </div>
-          </div>
-     </section>
 
 
      <!-- NEWS -->
@@ -318,6 +212,113 @@ http://www.tooplate.com/view/2098-health
      </section>
 
 
+
+     <!-- TEAM -->
+     <section id="team" data-stellar-background-ratio="1">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-6 col-sm-6">
+                         <div class="about-info">
+                              <h2 class="wow fadeInUp" data-wow-delay="0.1s">Our Doctors</h2>
+                         </div>
+                    </div>
+
+                    <div class="clearfix"></div>
+
+                    <div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.2s">
+                              <img src="images/team-image1.jpg" class="img-responsive" alt="">
+
+                                   <div class="team-info">
+                                        <h3>Nate Baston</h3>
+                                        <p>General Principal</p>
+                                        <div class="team-contact-info">
+                                             <p><i class="fa fa-phone"></i> 999-999-9999</p>
+                                             <p><i class="fa fa-envelope-o"></i> <a href="#">general@sewahealthlink.com</a></p>
+                                        </div>
+                                        <ul class="social-icon">
+                                             <li><a href="#" class="fa fa-linkedin-square"></a></li>
+                                             <li><a href="#" class="fa fa-envelope-o"></a></li>
+                                        </ul>
+                                   </div>
+
+                         </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.4s">
+                              <img src="images/team-image2.jpg" class="img-responsive" alt="">
+
+                                   <div class="team-info">
+                                        <h3>Jason Stewart</h3>
+                                        <p>Pregnancy</p>
+                                        <div class="team-contact-info">
+                                             <p><i class="fa fa-phone"></i> 010-070-0170</p>
+                                             <p><i class="fa fa-envelope-o"></i> <a href="#">pregnancy@sewahealthlink.com</a></p>
+                                        </div>
+                                        <ul class="social-icon">
+                                             <li><a href="#" class="fa fa-facebook-square"></a></li>
+                                             <li><a href="#" class="fa fa-envelope-o"></a></li>
+                                             <li><a href="#" class="fa fa-flickr"></a></li>
+                                        </ul>
+                                   </div>
+
+                         </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                         <div class="team-thumb wow fadeInUp" data-wow-delay="0.6s">
+                              <img src="images/team-image3.jpg" class="img-responsive" alt="">
+
+                                   <div class="team-info">
+                                        <h3>Miasha Nakahara</h3>
+                                        <p>Cardiology</p>
+                                        <div class="team-contact-info">
+                                             <p><i class="fa fa-phone"></i> 010-040-0140</p>
+                                             <p><i class="fa fa-envelope-o"></i> <a href="#">cardio@sewahealthlink.com</a></p>
+                                        </div>
+                                        <ul class="social-icon">
+                                             <li><a href="#" class="fa fa-twitter"></a></li>
+                                             <li><a href="#" class="fa fa-envelope-o"></a></li>
+                                        </ul>
+                                   </div>
+
+                         </div>
+                    </div>
+                    
+               </div>
+          </div>
+     </section>
+
+     <!-- ABOUT -->
+     <section id="about">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-6 col-sm-6">
+                         <div class="about-info">
+                              <h2 class="wow fadeInUp" data-wow-delay="0.6s" style="margin-bottom:0px;padding-bottom:0px;">Welcome to </h2>
+                              <h2 class="wow fadeInUp" data-wow-delay="0.6s" style="margin-top:0px;padding-top:0px;">  <span style="color:#ff0017">Sewa </span><span style="color:#00696c">Healthlink</span>
+                              <div class="wow fadeInUp" data-wow-delay="0.8s">
+                                   <p>Aenean luctus lobortis tellus, vel ornare enim molestie condimentum. Curabitur lacinia nisi vitae velit volutpat venenatis.</p>
+                                   <p>Sed a dignissim lacus. Quisque fermentum est non orci commodo, a luctus urna mattis. Ut placerat, diam a tempus vehicula.</p>
+                              </div>
+                              <figure class="profile wow fadeInUp" data-wow-delay="1s">
+                                   <img src="images/author-image.jpg" class="img-responsive" alt="">
+                                   <figcaption>
+                                        <h3>Dr. Neil Jackson</h3>
+                                        <p>General Principal</p>
+                                   </figcaption>
+                              </figure>
+                         </div>
+                    </div>
+                    
+               </div>
+          </div>
+     </section>
+
+
      <!-- MAKE AN APPOINTMENT -->
      <section id="appointment" data-stellar-background-ratio="3">
           <div class="container">
@@ -329,10 +330,24 @@ http://www.tooplate.com/view/2098-health
 
                     <div class="col-md-6 col-sm-6">
                          <!-- CONTACT FORM HERE -->
-                         <form id="appointment-form" role="form" method="post" action="#">
-
+                         <form id="appointment-form" role="form" method="post" action="sendMail">
+                              @csrf
                               <!-- SECTION TITLE -->
                               <div class="section-title wow fadeInUp" data-wow-delay="0.4s">
+                              @if(session()->has('success_message'))
+                              <div class="alert alert-success">
+                                   {{ session()->get('success_message') }}
+                              </div>
+                              @endif
+                              @if ($errors->any())
+                              <div class="alert alert-danger">
+                                   <ul>
+                                        @foreach ($errors->all() as $error)
+                                             <li>{{ $error }}</li>
+                                        @endforeach
+                                   </ul>
+                              </div>
+                              @endif
                                    <h2>Contact</h2>
                                    <p>
                                    Drop us your query using below form and we will get back to you soon.
@@ -344,35 +359,20 @@ http://www.tooplate.com/view/2098-health
                               
                                    <div class="col-md-6 col-sm-6">
                                         <label for="name">Name</label>
-                                        <input type="text" class="form-control" id="name" name="name" placeholder="Full Name">
+                                        <input required type="text" class="form-control" id="name" name="name" placeholder="Full Name">
                                    </div>
 
                                    <div class="col-md-6 col-sm-6">
                                         <label for="email">Email</label>
-                                        <input type="email" class="form-control" id="email" name="email" placeholder="Your Email">
-                                   </div>
-                                   <!--
-                                   <div class="col-md-6 col-sm-6">
-                                        <label for="date">Select Date</label>
-                                        <input type="date" name="date" value="" class="form-control">
+                                        <input required type="email" class="form-control" id="email" name="email" placeholder="Your Email">
                                    </div>
 
-                                   <div class="col-md-6 col-sm-6">
-                                        <label for="select">Select Department</label>
-                                        <select class="form-control">
-                                             <option>General Health</option>
-                                             <option>Cardiology</option>
-                                             <option>Dental</option>
-                                             <option>Medical Research</option>
-                                        </select>
-                                   </div>
-                                   //-->
                                    <div class="col-md-12 col-sm-12">
                                         <label for="telephone">Phone Number</label>
-                                        <input type="tel" class="form-control" id="phone" name="phone" placeholder="Phone">
+                                        <input required type="tel" class="form-control" id="phone" name="phone" placeholder="Phone">
                                         <label for="Message">Additional Message</label>
-                                        <textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
-                                        <button type="button" class="form-control" id="cf-submit" name="submit">Submit</button>
+                                        <textarea required class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
+                                        <button type="submit" class="form-control" id="cf-submit" name="submit">Submit</button>
                                    </div>
                               </div>
                         </form>
