@@ -365,7 +365,7 @@ Team Sewa Healthlink
                                 <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                                   <tbody>
                                     <tr>
-                                      <td> <a href="http://127.0.0.1:8000" target="_blank">Visit our website</a> </td>
+                                      <td> <a href="https://www.sewahealthlink.com" target="_blank">Visit our website</a> </td>
                                     </tr>
                                   </tbody>
                                 </table>
