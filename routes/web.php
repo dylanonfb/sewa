@@ -16,6 +16,6 @@ use App\Http\Controllers\MailController;
 
 Route::get('/', function () {
     return view('welcome');
-});
+})->middleware('throttle:60,1');
 
-Route::post('sendMail',[MailController::class,'submitContact']);
+Route::post('sendMail',[MailController::class,'submitContact'])->middleware('throttle:60,1');
