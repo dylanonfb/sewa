@@ -64,9 +64,9 @@ http://www.tooplate.com/view/2098-health
 
                <div class="navbar-header">
                     <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                         <span class="icon icon-bar">a</span>
-                         <span class="icon icon-bar">b</span>
-                         <span class="icon icon-bar">c</span>
+                         <span class="icon icon-bar"></span>
+                         <span class="icon icon-bar"></span>
+                         <span class="icon icon-bar"></span>
                     </button>
 
                     <!-- lOGO TEXT HERE -->
