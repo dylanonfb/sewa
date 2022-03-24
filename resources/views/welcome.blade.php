@@ -24,6 +24,9 @@ http://www.tooplate.com/view/2098-health
 
      <!-- MAIN CSS -->
      <link rel="stylesheet" href="css/tooplate-style.css">
+ 
+
+     </style>
 
 </head>
 <body id="top" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
@@ -299,11 +302,66 @@ http://www.tooplate.com/view/2098-health
                     <div class="col-md-6 col-sm-6">
                          <div class="about-info">
                               <h2 class="wow fadeInUp" data-wow-delay="0.6s" style="margin-bottom:0px;padding-bottom:0px;">Welcome to </h2>
-                              <h2 class="wow fadeInUp" data-wow-delay="0.6s" style="margin-top:0px;padding-top:0px;">  <span style="color:#ff0017">Sewa </span><span style="color:#00696c">Healthlink</span>
+                              <h2 class="wow fadeInUp" data-wow-delay="0.6s" style="margin-top:0px;padding-top:0px;">  <span style="color:#ff0017">Sewa </span><span style="color:#00696c">Healthlink</span></h2>
                               <div class="wow fadeInUp" data-wow-delay="0.8s">
-                                   <p>Aenean luctus lobortis tellus, vel ornare enim molestie condimentum. Curabitur lacinia nisi vitae velit volutpat venenatis.</p>
-                                   <p>Sed a dignissim lacus. Quisque fermentum est non orci commodo, a luctus urna mattis. Ut placerat, diam a tempus vehicula.</p>
+                                   <p>We are a service provider of skilled and compassionate home healthcare services in Manipur. We offer a wide range of services at the comfort of your home. We are supported by a team of highly experienced teams. </p>                              
                               </div>
+
+                              <h3 class="wow fadeInUp" data-wow-delay="0.6s" style="margin-bottom:0px;padding-bottom:0px;">  How SEWA HEALTHLINK Services was born?</h3>
+                            <div class="wow fadeInUp" data-wow-delay="0.8s">
+<p id="collapseSummary" style="margin-top: 10px;">The concept of SEWA Healthlink Services was envisioned when my best friend’s father was hospitalized for Alzheimer’s with SDH and its complications. This was an eye-opening experience which made us realized that there are four major obstacles regarding the treatment of elderly patients or terminally ill patients in our state (India):
+<ul>
+
+<li><b>Cost of treatment:</b> Getting medical intervention for terminally ill patients are becoming an expensive affair. In many cases, these patients do consider the rising cost of treatment that their illness can place on themselves, their families and significant others. Hospitalization costs more than home treatment. </li>
+<li><b>Quality of care:</b> The care given to the terminally ill patients or elderly patients are utmost important because the quality of care of health services to patients can increase the likelihood of desired health outcomes. The services are provided by a team of health care professionals who maximize comfort for a person who is terminally ill by reducing pain and addressing physical, psychological, social and spiritual needs.</li>
+<li><b>Comfortable Environment:</b> The elderly patients or terminally ill patients need a comfortable space where they can be treated during their last days, which is none other than their home surrounded by their loved ones  </li>
+<li><b>Dying with Dignity:</b> When patients are treated with respect, it creates a greater sense of trust and well-being. The patients can have a more dignified death when they are with their family members and loved ones. In very serious cases (when medical intervention isn’t an option), the next to kin or family members can decide for DNR (do not resuscitate) or withdrawal of life support. </li>
+
+</ul>
+The thoughts and the dilemmas that we encountered during that time led to the germination of SEWA Healthlink Services whose main purpose is to deliver a world-class healthcare services in the comfort of the patients’ home, which includes medical, emotional, social, psychological, and spiritual care for those patients where medical intervention is ineffective or not an option. These patients can be treated at home and be with their loved ones. 
+</p>
+</div>
+                              <h3 class="wow fadeInUp" data-wow-delay="0.6s" style="margin-bottom:0px;padding-bottom:0px;">Why SEWA Healthlink?
+</h3>
+                              <div class="wow fadeInUp" data-wow-delay="0.8s">
+<p>
+     <ul> 
+          <li><b>healthcare:</b>  To provide end-end management of all medical needs as suggested by doctor {Can include a list of treatment methods or processes that are to be provided}</li>
+          <li><b>Trained and experienced Doctors/nurses:</b>  Doctors/nurses are very well trained for home-based care experiences.</li>
+          <li><b>Quality assurance:</b> Regular training sessions are to be conducted to ensure that new technologies or methodologies are applied while treating patients. </li>
+</ul>
+</p>
+                              </div>
+
+                            
+
+<h3 class="wow fadeInUp" data-wow-delay="0.6s" style="margin-bottom:0px;padding-bottom:0px;">Mission</h3>
+<div class="wow fadeInUp" data-wow-delay="0.8s">
+<p> Provide world-class home healthcare services in Manipur (India)</p>
+</div>
+<h3 class="wow fadeInUp" data-wow-delay="0.6s" style="margin-bottom:0px;padding-bottom:0px;">Vision</h3>
+<div class="wow fadeInUp" data-wow-delay="0.8s">
+<p >
+<ul>
+     <li>To be the most eminent and trusted home healthcare institution by providing medical care within the comfort of patients’ home.</li>
+<li>To establish an efficient, affordable, and personalized palliative care at your door-step</li>
+<li> improve the quality of lives of the patients under our care while fulfilling their medical needs.</li>
+</ul>
+</p>
+</div>
+
+<h3 class="wow fadeInUp" data-wow-delay="0.6s" style="margin-bottom:0px;padding-bottom:0px;">Our Values</h3>
+<div class="wow fadeInUp" data-wow-delay="0.8s">
+<p >
+<ul>
+     <li>Compassion</li>
+<li>Respect</li>
+<li> Integrity</li>
+<li>Excellence</li>
+<li>Teamwork and collaboration</li>
+</ul>
+</p>
+</div>
                               <figure class="profile wow fadeInUp" data-wow-delay="1s">
                                    <img src="images/author-image.jpg" class="img-responsive" alt="">
                                    <figcaption>
