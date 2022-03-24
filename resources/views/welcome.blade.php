@@ -73,7 +73,7 @@ http://www.tooplate.com/view/2098-health
                     </button>
 
                     <!-- lOGO TEXT HERE -->
-                    <a href="/" ><img src="images/logo.png" class="navbar-brand" style="height:65px;padding:0px;"/></a>
+                    <a href="/" ><img src="images/logo.png" class="navbar-brand" style="height:40px;padding:0px;"/></a>
                </div>
 
                <!-- MENU LINKS -->
