@@ -112,7 +112,7 @@ http://www.tooplate.com/view/2098-health
                                         <div class="col-md-offset-1 col-md-10">
                                              <!--<h3>Let's make your life happier</h3>-->
                                              <h1>HEALTHCARE AT HOME</h1>
-                                             <a href="#hospice" class="section-btn btn btn-default smoothScroll">Hospice Care</a>
+                                             <a href="#news" class="section-btn btn btn-default btn-blue smoothScroll">Explore Our Services</a>
                                         </div>
                                    </div>
                               </div>
@@ -130,7 +130,8 @@ http://www.tooplate.com/view/2098-health
                                    <div class="caption">
                                         <div class="col-md-offset-1 col-md-10">
                                              <h1>Heal with us</h1>
-                                             <a href="#news" class="section-btn btn btn-default btn-blue smoothScroll">Explore Our Services</a>
+                                             <a href="#hospice" class="section-btn btn btn-default smoothScroll">Hospice Care</a>
+                                             
                                         </div>
                                    </div>
                               </div>
