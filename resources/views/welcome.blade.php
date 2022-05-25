@@ -190,7 +190,6 @@ http://www.tooplate.com/view/2098-health
                                              <h3><a href="#">Post Operative</a></h3>
                                              <p></p>
                                              <ul>
-                                                  <li>Stomach care</li>
                                                   <li>Wound care</li>
                                                   <li>Tracheostomy care</li>
                                                   <li>Post operative dressing</li>
