@@ -186,7 +186,7 @@ http://www.tooplate.com/view/2098-health
                                         <div class="news-info">
                                              
                                              <h3><a href="#">Post Operative</a></h3>
-                                             <p>Maecenas risus neque, placerat volutpat tempor ut, vehicula et felis.</p>
+                                             <p>We offer several post operative care services.</p>
                                              <ul>
                                                   <li>Stomach care</li>
                                                   <li>Wound care</li>
