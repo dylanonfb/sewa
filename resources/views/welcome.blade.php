@@ -129,7 +129,7 @@ http://www.tooplate.com/view/2098-health
                               <div class="item item-third">
                                    <div class="caption">
                                         <div class="col-md-offset-1 col-md-10">
-                                             <h1>Heal with us</h1>
+                                             <h1>HEAL WITH US</h1>
                                              <a href="#hospice" class="section-btn btn btn-default smoothScroll">Hospice Care</a>
                                              
                                         </div>
