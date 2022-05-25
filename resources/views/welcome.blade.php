@@ -162,7 +162,7 @@ http://www.tooplate.com/view/2098-health
                                         <div class="news-info">
                                              
                                              <h3><a href="#">General</a></h3>
-                                             <p>We offer a range of general home care services including</p>
+                                             <p></p>
                                              <ul>
                                                   <li>Monitoring Vital signs</li>
                                                   <li>Administration of Medications</li>
@@ -186,7 +186,7 @@ http://www.tooplate.com/view/2098-health
                                         <div class="news-info">
                                              
                                              <h3><a href="#">Post Operative</a></h3>
-                                             <p>We offer several post operative care services.</p>
+                                             <p></p>
                                              <ul>
                                                   <li>Stomach care</li>
                                                   <li>Wound care</li>
