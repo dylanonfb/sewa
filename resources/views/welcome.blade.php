@@ -353,7 +353,7 @@ The thoughts and the dilemmas that we encountered during that time led to the ge
                               <div class="wow fadeInUp" data-wow-delay="0.8s">
 <p>
      <ul> 
-          <li><b>healthcare:</b>  To provide end-end management of all medical needs as suggested by doctor {Can include a list of treatment methods or processes that are to be provided}</li>
+          <li><b>healthcare:</b>  To provide end-end management of all medical needs as suggested by doctor</li>
           <li><b>Trained and experienced Doctors/nurses:</b>  Doctors/nurses are very well trained for home-based care experiences.</li>
           <li><b>Quality assurance:</b> Regular training sessions are to be conducted to ensure that new technologies or methodologies are applied while treating patients. </li>
 </ul>
