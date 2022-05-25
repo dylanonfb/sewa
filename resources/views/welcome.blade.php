@@ -557,9 +557,9 @@ The thoughts and the dilemmas that we encountered during that time led to the ge
                               </div> 
 
                               <ul class="social-icon">
-                                   <li><a href="https://www.facebook.com/Sewahealthlink-100901205957607" class="fa fa-facebook-square" attr="facebook icon"></a></li>
+                                   <li><a href="https://www.facebook.com/Sewahealthlink-100901205957607" class="fa fa-facebook-square" attr="facebook icon" target="_blank"></a></li>
                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                   <li><a href="https://www.instagram.com/sewahealth" class="fa fa-instagram"></a></li>
+                                   <li><a href="https://www.instagram.com/sewahealth" class="fa fa-instagram" target="_blank"></a></li>
                               </ul>
                          </div>
                     </div>
