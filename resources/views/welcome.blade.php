@@ -572,7 +572,7 @@ The thoughts and the dilemmas that we encountered during that time led to the ge
                                    </p>
                                    <p>Managed and maintained by
                                         
-                                   <a href="https://changerline.com" attr="changerline" target="_blank">changerline</a>
+                                   <a href="https://changerline.com" attr="changerline" target="_blank">changerline.com</a>
                                    </p>
                               </div>
                          </div>
