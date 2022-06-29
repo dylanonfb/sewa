@@ -570,7 +570,10 @@ The thoughts and the dilemmas that we encountered during that time led to the ge
                                    <p>Copyright &copy; 2022 Sewa Healthlink 
                                    
                                    </p>
-                                   <p>Managed and maintained by <a href="https://www.changerline.com">changerline.com</a></p>
+                                   <p>Managed and maintained by
+                                        
+                                   <a href="https://changerline.com" class="fa fa-facebook-square" attr="facebook icon" target="_blank"></a>
+                                   </p>
                               </div>
                          </div>
                          <div class="col-md-6 col-sm-6">
