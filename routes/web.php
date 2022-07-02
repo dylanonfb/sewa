@@ -18,4 +18,4 @@ Route::get('/', function () {
     return view('welcome');
 })->middleware('throttle:60,1');
 
-Route::post('sendMail',[MailController::class,'submitContact'])->middleware('throttle:60,1');
+Route::post('sendMail',[MailController::class,'submitContact'])->middleware('throttle:1,1');
