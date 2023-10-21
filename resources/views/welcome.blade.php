@@ -25,8 +25,6 @@ http://www.tooplate.com/view/2098-health
      <!-- MAIN CSS -->
      <link rel="stylesheet" href="css/tooplate-style.css">
  
-
-     </style>
 <!--Google Analytics -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4V6DKQ1LZ3"></script>
@@ -38,6 +36,7 @@ http://www.tooplate.com/view/2098-health
   gtag('config', 'G-4V6DKQ1LZ3');
 </script>
 
+<script async src="https://www.google.com/recaptcha/api.js" defer></script>
 </head>
 <body id="top" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
 
@@ -451,6 +450,7 @@ The thoughts and the dilemmas that we encountered during that time led to the ge
                                         <input required type="tel" class="form-control" id="phone" name="phone" placeholder="Phone">
                                         <label for="Message">Additional Message</label>
                                         <textarea required class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
+                                        <div class="g-recaptcha" data-sitekey="{{ config('app.recaptcha_key') }}"></div>
                                         <button type="submit" class="form-control" id="cf-submit" name="submit">Submit</button>
                                    </div>
                               </div>

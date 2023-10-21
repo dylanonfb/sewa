@@ -8,6 +8,7 @@ use App\Http\Requests;
 use App\Http\Controllers\Controller;
 use App\Mail\ContactMail;
 use App\Models\Contact;
+use App\Rules\ReCaptcha;
 
 class MailController extends Controller {
    public function submitContact(Request $request) {
@@ -15,8 +16,10 @@ class MailController extends Controller {
          'name'  => 'required|max:100',
          'email' => 'required|email|max:100',
          'phone' => 'required|max:13',
-         'message' => 'required|max:300'
+         'message' => 'required|max:300',
+         'g-recaptcha-response' => ['required', new ReCaptcha]
       ]);
+
       $contact =  new Contact;
       $contact->name=$validated['name'];
       $contact->email=$validated['email'];
